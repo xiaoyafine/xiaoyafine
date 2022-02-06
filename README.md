@@ -29,9 +29,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
-[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
+#### Skills
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://www.github.com/)
-[![](https://img.shields.io/badge/-AutoCAD-b42b24?style=flat-square&logo=Autodesk&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
