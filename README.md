@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - - -
 #### Platform & Tools
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
-[![](https://img.shields.io/badge/OS-Ubuntu-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.archlinux.org/)
+[![](https://img.shields.io/badge/OS-Ubuntu-d64613?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 #### Skills
